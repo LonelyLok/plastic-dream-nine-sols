@@ -3,7 +3,6 @@
 ### Plastic dream think the game is easy (phase 2) (2025/02/02)
 https://github.com/user-attachments/assets/22676bcc-0809-452a-9f68-15ae5f490cde
 
-
 ### Good start but bad end (phase 1) (2025/02/02)
 https://github.com/user-attachments/assets/89a591af-6e67-4bda-98a9-edd527c4aa89
 
@@ -22,7 +21,7 @@ https://github.com/user-attachments/assets/03f5cb7f-f2fa-469c-8eaa-1923f9ba80f4
 ### Close-ish phase 3 (2025/02/07)
 https://github.com/user-attachments/assets/dad49b16-fe54-4614-88ad-96cd9b5c206a
 
-
-
+### Finally beat phase 3 (2025/02/07)
+https://github.com/user-attachments/assets/40fab8fa-3fca-4ad0-82d2-2af740017783
 
 
